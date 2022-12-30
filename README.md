@@ -12,3 +12,5 @@ To run the app, you can run:
 The Spotify song recommendation system is a platform that uses audio features as input from users and recommends songs accordingly. It utilizes the Spotify API to access a vast library of songs and their corresponding audio features. 
 
 The system allows users to input their preferences manually and generates a list of recommended songs based on those preferences. The API also allows users to listen to a preview of each recommended song before deciding whether to add it to their playlist. This recommendation system provides an intuitive and personalized music listening experience for users, helping them discover new songs and artists that align with their tastes.
+
+Please click ![here](https://adiark-song-recommendation--app-x35qnc.streamlit.app/) to use the application.
